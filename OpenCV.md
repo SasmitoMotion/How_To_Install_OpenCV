@@ -75,7 +75,7 @@ Create your computer vision virtual environment:
 
       mkdir build
       cd build
-      cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local -D BUILD_NEW_PYTHON_SUPPORT=ON -D INSTALL_C_EXAMPLES=ON -D         INSTALL_PYTHON_EXAMPLES=ON  -D BUILD_EXAMPLES=ON ..
+     cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local -D BUILD_NEW_PYTHON_SUPPORT=ON -D INSTALL_C_EXAMPLES=ON -D INSTALL_PYTHON_EXAMPLES=ON  -D BUILD_EXAMPLES=ON ..
   
   Compile OpenCV:
         
